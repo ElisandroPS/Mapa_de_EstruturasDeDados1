@@ -1,0 +1,20 @@
+Estrutura de Dados 1, Mapa da Disciplina:
+
+Fila Estática com linguagem C.
+
+Foi solicitado a criação de uma aplicação usando o conceito de fila estática com os seguintes requisitos:
+	Adicionar 5 alunos numa fila estática com seus respectivos campos de RA(número de matrícul), nome de um
+arquivo, formato do arquivo, matrícula do professor;
+	O programa teria que coloca-los em fila usando o conceito FIFO “First In, First Out”, ou seja,
+ “primeiro a entrar, primeiro a sair”;
+	E, também a opção de esvaziar toda fila;
+	Obtive nota máxima, mas sei que há muitas melhorias a serem implementadas neste código simples
+estou publicando para aprender mais com as observações futuras, desde já agradeço!
+
+ 	Ah! sei que parece bobeira, mas este foi o meu primeiro código desde que entrei na faculdade
+e me deixou muito orgulhoso, pois eu não sabia simplesmente nada de programação antes de iniciar o curso de
+Análise e Desenvolvimento de Sistemas/UNICESUMAR e me dediquei bastante para chegar a está solução.
+
+
+
+Elisandro P Silva.
